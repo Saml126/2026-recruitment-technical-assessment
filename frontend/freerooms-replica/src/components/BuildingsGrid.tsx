@@ -1,5 +1,5 @@
 import buildingData from '../data.json';
-import BuildingCard from './BuildingCard.tsx';
+import BuildingCard from './BuildingCard';
 import './BuildingsGrid.css';
 
 export default function BuildingGrid() {

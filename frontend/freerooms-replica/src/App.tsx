@@ -1,6 +1,6 @@
-import NavBar from './components/NavBar.tsx';
-import SearchBar from './components/SearchBar.tsx';
-import BuildingGrid from './components/BuildingsGrid.tsx';
+import NavBar from './components/NavBar';
+import SearchBar from './components/SearchBar';
+import BuildingGrid from './components/BuildingsGrid';
 
 import './App.css'
 

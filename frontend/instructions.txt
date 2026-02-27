@@ -1,0 +1,1 @@
+Please cd into freerooms-replica and npm run start to open the frontend!
