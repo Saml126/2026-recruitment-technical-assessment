@@ -1,0 +1,9 @@
+.main-container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: white;
+}
+
+.icon {
+  filter: invert(44%) sepia(91%) saturate(706%) hue-rotate(348deg) brightness(99%) contrast(89%);
+}
