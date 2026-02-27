@@ -1,0 +1,48 @@
+.building-card {
+  position: relative;
+  height: 420px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.building-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  display: block;
+}
+
+.status-pill {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #333;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  background-color: #4CAF50;
+  border-radius: 50%;
+}
+
+.building-name {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  right: 15px; 
+  background-color: #ef7021;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
